@@ -7,7 +7,7 @@
 header{
     width: 100%;
     height: 100vh;
-    background: url(http://lambert.kwst.net/site/images/bg/9.jpg) no-repeat 50% 50%;
+    background: url(images/9.jpg) no-repeat 50% 50%;
     background-attachment: fixed;
     opacity:500%;
     background-size: cover;
@@ -44,7 +44,7 @@ nav.white{
     
 }
 .textss::after:hover a{
-    color: goldenrod;
+    color: #C59D5F;
 }
 .soc {
     margin-left: 350px;
@@ -68,7 +68,7 @@ nav.white{
 
 }
 .section-title h3{
-    color: goldenrod;
+    color: #C59D5F;
     font-size: 28px;
     font-family: 'Playball', cursive;
     text-transform: uppercase;
@@ -80,7 +80,7 @@ nav.white{
     
 }
 .ajax{
-    color: goldenrod;
+    color: #C59D5F;
     text-decoration: none;
     font-family: 'Playball', cursive;
     font-size: 17px;
@@ -106,7 +106,7 @@ h3{
     margin-top:-70px;
 }
 .Another{
-  background-image: url(http://lambert.kwst.net/site/images/bg/28.jpg);
+  background-image: url(images/chicken-biryani.jpg);
   background-attachment: fixed;
   height: 130vh;
   width: 100%;
@@ -123,8 +123,9 @@ h3{
     
 }
 .Another h3{
-    color: goldenrod;
+    color: #C59D5F;
     padding-bottom: 20px;
+    font-size: 34px;
 }
 .hours{
     font-size: 40px;
@@ -133,14 +134,14 @@ h3{
 }
 .calling{
     font-size: 30px;
-    color: goldenrod;
+    color: #C59D5F;
     font-weight:bold ;
     font-family:'playball',cursive ;
     padding-bottom: 1000px;
 }
 .calling a{
     text-decoration: none;
-    color: goldenrod;
+    color: #C59D5F;
     padding-bottom: 100px;
 }
 .Another{
@@ -149,7 +150,7 @@ h3{
     color: black;
 }
 .price{
-    background-image: url(http://lambert.kwst.net/site/images/bg/8.jpg);
+    background-image: url(images/8.jpg);
     background-attachment:fixed ;
     height: 130vh;
     opacity:120%;
@@ -162,7 +163,7 @@ h3{
 }
 sub{
     text-decoration: line-through;
-    color: goldenrod;
+    color: #C59D5F;
 }
 .promotion-details{
     display: flex;
@@ -207,7 +208,7 @@ sub{
 }
 .online a{
     text-decoration: none;
-    color: goldenrod;
+    color: #C59D5F;
 }
 .online:hover a{
     color: #fff;
@@ -235,7 +236,7 @@ sub{
     font-weight: bold;
 }
 .chefinfo{
-    color: goldenrod;
+    color: #C59D5F;
     font-weight: bold;
     font-size: 10px;
 }
@@ -250,14 +251,14 @@ sub{
 }
 .more-info a{
     text-decoration: none;
-    color:goldenrod;
+    color:#C59D5F;
 }
 .iid:hover{
     color: black;
 
 }
 .almost{
-    background-image: url(http://lambert.kwst.net/site/images/bg/1.jpg);
+    background-image: url(images/1.jpg);
     background-attachment: fixed;
     height: 130vh;
     width: 100%;
@@ -273,7 +274,7 @@ sub{
 .wat{
     font-size: 30px;
     font-family:'playball',cursive ;
-    color: goldenrod;
+    color: #C59D5F;
 }
 .kl{
     padding-top: 20px;
@@ -298,7 +299,7 @@ sub{
 }
 .find h4{
     text-transform: uppercase;
-    color: goldenrod;
+    color: #C59D5F;
     padding-bottom: 20px;
     font-weight: bold;
     font-size: 20px;
@@ -312,7 +313,7 @@ sub{
     justify-content: center;
 }
 .palmer:hover {
-    color: goldenrod;
+    color: #C59D5F;
 }
 .news{
     font-size: 15px;
@@ -328,7 +329,7 @@ sub{
 .subscribe-button{
     height: 50px;
     width: 50px;
-    color: goldenrod;
+    color: #C59D5F;
 }
 .l{
     text-align: center;
@@ -375,7 +376,7 @@ ul{
 }
 ul,li{
     text-align: center;
-    color: goldenrod;
+    color: #C59D5F;
     list-style: none;
     justify-content: center;
     margin-bottom: -100px;
@@ -398,10 +399,10 @@ ul,li{
     font-size: 20px;
     font-weight: bold;
     font-family:'Playball', cursive ;
-    color: goldenrod;
+    color: #C59D5F;
 }
 .quotes{
-    color: goldenrod;
+    color: #C59D5F;
     font-size: 40px;
     
 }
@@ -414,7 +415,7 @@ ul,li{
 }
 .lam{
     display: flex;
-    color: goldenrod;
+    color: #C59D5F;
     justify-content: space-between;
     padding-top: 40px;
 }
